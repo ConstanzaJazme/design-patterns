@@ -17,26 +17,26 @@ code.
 
 ## Structural Patterns
 
-|    Pattern    | Description      | Status |
-|:-------------:|:-----------------|:------:|
-|  [Bridge]()   | Work in progress |   ✘    |
-| [Composite]() | Work in progress |   ✘    |
-| [Decorator]() | Work in progress |   ✘    |
-|  [Facade]()   | Work in progress |   ✘    |
-| [Flyweight]() | Work in progress |   ✘    |
-|   [Proxy]()   | Work in progress |   ✘    |
+|    Pattern    | Description | Status |
+|:-------------:|:------------|:------:|
+|  [Bridge]()   | Pending     |   ✘    |
+| [Composite]() | Pending     |   ✘    |
+| [Decorator]() | Pending     |   ✘    |
+|  [Facade]()   | Pending     |   ✘    |
+| [Flyweight]() | Pending     |   ✘    |
+|   [Proxy]()   | Pending     |   ✘    |
 
 ## Behavioral Patterns
 
-|           Pattern           | Description      | Status |
-|:---------------------------:|:-----------------|:------:|
-| [Chain of Responsibility]() | Work in progress |   ✘    |
-|         [Command]()         | Work in progress |   ✘    |
-|        [Mediator]()         | Work in progress |   ✘    |
-|         [Memento]()         | Work in progress |   ✘    |
-|        [Observer]()         | Work in progress |   ✘    |
-|        [Registry]()         | Work in progress |   ✘    |
-|          [State]()          | Work in progress |   ✘    |
-|        [Strategy]()         | Work in progress |   ✘    |
-|        [Template]()         | Work in progress |   ✘    |
-|         [Visitor]()         | Work in progress |   ✘    |
+|           Pattern           | Description | Status |
+|:---------------------------:|:------------|:------:|
+| [Chain of Responsibility]() | Pending     |   ✘    |
+|         [Command]()         | Pending     |   ✘    |
+|        [Mediator]()         | Pending     |   ✘    |
+|         [Memento]()         | Pending     |   ✘    |
+|        [Observer]()         | Pending     |   ✘    |
+|        [Registry]()         | Pending     |   ✘    |
+|          [State]()          | Pending     |   ✘    |
+|        [Strategy]()         | Pending     |   ✘    |
+|        [Template]()         | Pending     |   ✘    |
+|         [Visitor]()         | Pending     |   ✘    |
