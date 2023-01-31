@@ -1,4 +1,4 @@
-# Welcome to Design Pattern In Go!
+# Welcome to Design Patterns In Go!
 
 Hi! this is a personal project used for learning **Design Patterns** and a little bit of **Go**. In this repo, you may
 see multiple Design Pattern examples and its short description
