@@ -8,12 +8,12 @@ see multiple Design Pattern examples and its short description
 Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing
 code.
 
-|                               Pattern                                | Description                                                                                                                        | Status |
-|:--------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------|:------:|
-|                          [Factory Method]()                          | Work in progress                                                                                                                   |   ✘    |
-| [Abstract Factory](/creational/abstract_factory/abstract_factory.md) | Lets you produce families of related objects without specifying their concrete classes (example is ok, but explanation is pending) |   ✔    |
-|                             [Builder]()                              | Work in progress                                                                                                                   |   ✘    |
-|                            [Singleton]()                             | Work in progress                                                                                                                   |   ✘    |
+|                               Pattern                                | Description                                                                                                                                                                                 | Status |
+|:--------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|
+|                          [Factory Method]()                          | Work in progress                                                                                                                                                                            |   ✘    |
+| [Abstract Factory](/creational/abstract_factory/abstract_factory.md) | Lets you produce families of related objects without specifying their concrete classes. (example is ok, but explanation is pending)                                                         |   ✔    |
+|                             [Builder]()                              | Lets you construct complex objects **step by step**, which allows you to produce different types of an object using the same construction code. (example is ok, but explanation is pending) |   ✔    |
+|                            [Singleton]()                             | Work in progress                                                                                                                                                                            |   ✘    |
 
 ## Structural Patterns
 
