@@ -1,4 +1,4 @@
-package main
+package vehicle_builder
 
 type BuildProcess interface {
     SetWheels() BuildProcess

@@ -1,11 +1,11 @@
-package main
+package vehicle_builder
 
 import "fmt"
 
-func main() {
+func Start() {
 	manufacturingComplex := NewDirector()
 
-	carBuilder := &CarBuilder{}
+    carBuilder := &CarBuilder{}
 	manufacturingComplex.SetBuilder(carBuilder)
 	manufacturingComplex.Construct()
 	car := carBuilder.GetVehicle()
@@ -14,7 +14,7 @@ func main() {
 	fmt.Printf("Car type %s\n", car.Structure)
 	fmt.Printf("Number of seats %d\n", car.Seats)
 
-	bikeBuilder := &BikeBuilder{}
+    bikeBuilder := &BikeBuilder{}
 	manufacturingComplex.SetBuilder(bikeBuilder)
 	manufacturingComplex.Construct()
 	motorbike := bikeBuilder.GetVehicle()
